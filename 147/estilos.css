@@ -1,0 +1,55 @@
+body {
+    background-color: #92C5Fc;
+    margin: 0;
+}
+
+p {
+    margin: 13px;
+}
+
+h1 {
+    background-color: plum;
+    padding: 10px;
+}
+
+h2 {
+    background-color: pink;
+    padding: 10px;
+
+}
+
+h3 {
+    background-color: greenyellow;
+    padding: 10px;
+
+}
+
+
+
+.container iframe {
+    display: block;
+    position: relative;
+
+    width: 90%;
+    height: 400px;
+    margin: auto;
+
+}
+footer{
+    margin: auto;
+    color: white;
+    background-color: grey;
+    height: 30px;
+    text-align: center;
+    padding: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li{
+    bottom: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-style:oblique;
+}
+br{
+    margin-bottom: 5px;
+}
